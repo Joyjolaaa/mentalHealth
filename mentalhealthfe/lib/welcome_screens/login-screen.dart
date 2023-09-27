@@ -7,8 +7,8 @@ import 'package:flutter/gestures.dart';
 import 'package:http/http.dart' as http;
 import 'dart:ui';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:sdlc_flutter/utils.dart';
-import 'package:sdlc_flutter/welcome_screens/signup.dart';
+import 'package:mentalhealthfe/utils.dart';
+import 'package:mentalhealthfe/welcome_screens/signup.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class LoginScreen extends StatefulWidget {

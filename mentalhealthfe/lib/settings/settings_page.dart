@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:sdlc_flutter/settings/change_country.dart';
-import 'package:sdlc_flutter/settings/change_password_page.dart';
-import 'package:sdlc_flutter/settings/legal_about_page.dart';
-import 'package:sdlc_flutter/settings/notifications_settings_page.dart';
-import 'package:sdlc_flutter/welcome_screens/login-screen.dart';
+import 'package:mentalhealthfe/settings/change_country.dart';
+import 'package:mentalhealthfe/settings/change_password_page.dart';
+import 'package:mentalhealthfe/settings/legal_about_page.dart';
+import 'package:mentalhealthfe/settings/notifications_settings_page.dart';
+import 'package:mentalhealthfe/welcome_screens/login-screen.dart';
 
 import 'change_language_page.dart';
 

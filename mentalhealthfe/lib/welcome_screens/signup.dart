@@ -7,7 +7,7 @@ import 'package:flutter/gestures.dart';
 import 'package:http/http.dart' as http;
 import 'dart:ui';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:sdlc_flutter/account/profile_setup.dart';
+import 'package:mentalhealthfe/account/profile_setup.dart';
 // import 'package:intl_phone_field/intl_phone_field.dart';
 // import 'package:libphonenumber/libphonenumber.dart';
 

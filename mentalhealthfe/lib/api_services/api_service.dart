@@ -6,8 +6,8 @@ import 'package:flutter/foundation.dart';
 // import 'dart:html' as html;
 import 'dart:typed_data'; // Import this for Uint8List
 import 'package:http/http.dart' as http;
-import 'package:sdlc_flutter/models/profile.dart';
-import 'package:sdlc_flutter/models/user.dart';
+import 'package:mentalhealthfe/models/profile.dart';
+import 'package:mentalhealthfe/models/user.dart';
 
 class ApiService {
   static String baseUrl = 'http://localhost:8000';

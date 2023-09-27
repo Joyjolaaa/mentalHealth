@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:sdlc_flutter/app_properties.dart';
+import 'package:mentalhealthfe/app_properties.dart';
 
 class ChangeCountryPage extends StatefulWidget {
   const ChangeCountryPage({Key? key}) : super(key: key);

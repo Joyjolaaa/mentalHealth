@@ -1,8 +1,8 @@
 // ignore_for_file: library_private_types_in_public_api
 
 import 'package:flutter/material.dart';
-import 'package:sdlc_flutter/app_properties.dart';
-import 'package:sdlc_flutter/welcome_screens/signup.dart';
+import 'package:mentalhealthfe/app_properties.dart';
+import 'package:mentalhealthfe/welcome_screens/signup.dart';
 
 class OnboardingScreen extends StatefulWidget {
   const OnboardingScreen({super.key});

@@ -3,9 +3,9 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:sdlc_flutter/api_services/api_service.dart';
-import 'package:sdlc_flutter/models/profile.dart';
-import 'package:sdlc_flutter/models/user.dart';
+import 'package:mentalhealthfe/api_services/api_service.dart';
+import 'package:mentalhealthfe/models/profile.dart';
+import 'package:mentalhealthfe/models/user.dart';
 
 class ProfileSetupScreen extends StatefulWidget {
   final String? authToken;

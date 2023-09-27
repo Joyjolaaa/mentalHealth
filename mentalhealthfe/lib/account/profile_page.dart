@@ -1,11 +1,11 @@
 // ignore_for_file: library_private_types_in_public_api
 
 import 'package:flutter/material.dart';
-import 'package:sdlc_flutter/account/faq_page.dart';
-import 'package:sdlc_flutter/api_services/api_service.dart';
-import 'package:sdlc_flutter/app_properties.dart';
-import 'package:sdlc_flutter/models/user.dart';
-import 'package:sdlc_flutter/settings/settings_page.dart';
+import 'package:mentalhealthfe/account/faq_page.dart';
+import 'package:mentalhealthfe/api_services/api_service.dart';
+import 'package:mentalhealthfe/app_properties.dart';
+import 'package:mentalhealthfe/models/user.dart';
+import 'package:mentalhealthfe/settings/settings_page.dart';
 
 // Import the ApiService and User models here
 

@@ -3,7 +3,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:sdlc_flutter/app_properties.dart';
+import 'package:mentalhealthfe/app_properties.dart';
 
 class FaqPage extends StatefulWidget {
   const FaqPage({super.key});
